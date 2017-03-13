@@ -1,0 +1,35 @@
+{
+  "name":  "test",
+  "map": [
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "XXXXXXXXXXXXX                                                                                X",
+    "XXXXXXXXXXXXXXX                                                                              X",
+    "X            XXXXX             1      X          XXXX      XXX                               X",
+    "X                       XXXXXXXXXXXXXXX                                                      X",
+    "X                      XXXXXXXXXXXXXXXX                                                      X",
+    "X                                                                                            X",
+    "X                                                                                            X",
+    "X                 XXX                                                                        X",
+    "X          XXXXXXXXXX    XXXX                 XXXXX                                          X",
+    "X       XXXXXXXXXXXXX    XXXXXX                                                              X",
+    "XXXXXX                                                                                       X",
+    "XXXXXX                                                                                       X",
+    "XXXXXX                                                                                       X",
+    "XXXXXX              1                                                                        X",
+    "XXXXXX           XXXXXXXXXXXXXXXXX   X               XXXXXXXXXXXXXXXXXXXXXXX                 X",
+    "XXXXXX     XXXXXXXXXXXXXXXXXXXXXXX   X                                                       X",
+    "XXXXXX                               X                                                       X",
+    "XXXXXX                               X                                                       X",
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    ]
+ 
+}
