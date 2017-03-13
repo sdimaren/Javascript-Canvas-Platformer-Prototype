@@ -10,19 +10,19 @@ More to come!
 
 ## Controls:
 
-Arrows: move/face direction
-Z: Jump
-X: Shoot
-Shift: Diagonal aiming
+* Arrows: move/face direction
+* Z: Jump
+* X: Shoot
+* Shift: Diagonal aiming
 
-## In Progress
+## In Progress:
 
-collision detection (AABB, raycasting, hitboxes)
-entities (enemies, in stage items)
-dynamic camera
-game menu
-multiple levels
-moving platforms
-mobile touch support
-art and animation
-sound fx and music
+* collision detection (AABB, raycasting, hitboxes)
+* entities (enemies, in stage items)
+* dynamic camera
+* game menu
+* multiple levels
+* moving platforms
+* mobile touch support
+* art and animation
+* sound fx and music
