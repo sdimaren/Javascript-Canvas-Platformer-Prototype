@@ -13,7 +13,13 @@ More to come!
 * Arrows: move/face direction
 * Z: Jump
 * X: Shoot
+* A: Change projectile type
 * Shift: Diagonal aiming
+
+## Known Issues
+
+* Double tap for controls are not fully functional; makes player object automatic
+* Collision detection for rainbow projectile may cause engine to freeze; need to implement segment vs AABB test or raycast function
 
 ## In Progress:
 
